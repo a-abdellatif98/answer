@@ -17,7 +17,6 @@ require (
 	github.com/jinzhu/copier v0.3.5
 	github.com/jinzhu/now v1.1.5
 	github.com/lib/pq v1.10.2
-	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/mojocn/base64Captcha v1.3.5
 	github.com/segmentfault/pacman v1.0.1
 	github.com/segmentfault/pacman/contrib/cache/memory v0.0.0-20220929065758-260b3093a347
@@ -60,6 +59,7 @@ require (
 	github.com/magiconair/properties v1.8.6 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
+	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
@@ -82,7 +82,7 @@ require (
 	go.uber.org/zap v1.23.0 // indirect
 	golang.org/x/image v0.0.0-20220902085622-e7cb96979f69 // indirect
 	golang.org/x/sys v0.0.0-20220928140112-f11e5e49a4ec // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.3.8 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
